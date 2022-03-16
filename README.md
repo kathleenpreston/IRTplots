@@ -6,6 +6,4 @@ wd<-"C:/Users/Dekstop/IRTAnalysis/"
 flexname <- "Example Survey"
 source("https://github.com/kathleenpreston/IRTplots/blob/main/Plotting%20Divide-by-Total%20Models.R")
 
-source("http://hssfaculty.fullerton.edu/psychology/kpreston/Wald.txt")
-
-source("C:/Users/kathleen/Dropbox/Research Projects/WPA Stats Talk/Plotting.txt")
+source("https://github.com/kathleenpreston/IRTplots/blob/main/Wald%20Test.R")
